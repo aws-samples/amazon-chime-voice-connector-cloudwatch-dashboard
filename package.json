@@ -29,24 +29,24 @@
     "@typescript-eslint/eslint-plugin": "^6",
     "@typescript-eslint/parser": "^6",
     "aws-cdk": "^2.126.0",
-    "esbuild": "^0.20.1",
+    "esbuild": "^0.20.2",
     "eslint": "^8",
     "eslint-import-resolver-typescript": "^2.7.1",
     "eslint-plugin-import": "^2.29.1",
-    "projen": "^0.80.5",
+    "projen": "^0.80.12",
     "ts-node": "10.9.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.3"
   },
   "dependencies": {
-    "@aws-sdk/client-chime-sdk-voice": "^3.525.0",
-    "@aws-sdk/client-cloudwatch-logs": "^3.525.0",
-    "@aws-sdk/client-ssm": "^3.525.0",
-    "@types/aws-lambda": "^8.10.134",
+    "@aws-sdk/client-chime-sdk-voice": "^3.540.0",
+    "@aws-sdk/client-cloudwatch-logs": "^3.540.0",
+    "@aws-sdk/client-ssm": "^3.540.0",
+    "@types/aws-lambda": "^8.10.136",
     "aws-cdk-lib": "^2.126.0",
     "aws-lambda": "^1.0.7",
     "constructs": "^10.0.5",
     "dotenv": "^16.4.5",
-    "esbuild": "^0.20.1"
+    "esbuild": "^0.20.2"
   },
   "license": "MIT-0",
   "version": "0.0.0",
